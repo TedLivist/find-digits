@@ -1,3 +1,5 @@
+## solution
+
 function findDigits(num) {
   let numToString = num.toString()
   let numIntoArray = numToString.split('')
